@@ -244,3 +244,23 @@ nav a:hover {
   border-radius: 18px;
   background-color: #193A2D;
 }
+.retour-menu {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 14px;
+  border-radius: 20px;
+  background-color: #A5D244;
+  color: #10251E;
+  text-decoration: none;
+}
+.footer {
+  padding: 14px 16px;
+  background-color: #369B72;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.footer p {
+  margin: 4px 0;
+}
