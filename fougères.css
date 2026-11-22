@@ -47,15 +47,16 @@
   text-decoration: none;
 }
 
-.NavBar {
+.NavBar-fougères {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 10px;
-  background-color: #12271F;
-  position:sticky;
+  gap: 20px;
+  padding: 10px 24px;
+  position: sticky;
   top: 0;
   z-index: 10;
+  background-color: #369B72;
 }
 .logoEvo img {
     width: 120px;
