@@ -47,15 +47,17 @@
   text-decoration: none;
 }
 
-.NavBar {
+.NavBar-graminees {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 10px;
-  background-color: #12271F;
-  position:sticky;
+  gap: 20px;
+  padding: 10px 24px;
+  position: sticky;
   top: 0;
   z-index: 10;
+  background-color: #369B72;
+  color: white;
 }
 .logoEvo img {
     width: 120px;
@@ -69,4 +71,14 @@
 
 body {
   margin: 0;
+}
+.NavBar-graminees nav a {
+  color: white;
+}
+.footer {
+  padding: 14px 16px;
+  background-color: #369B72;
+  color: white;
+  text-align: center;
+  font-weight: bold;
 }

@@ -71,3 +71,10 @@
 body {
   margin: 0;
 }
+.footer {
+  padding: 14px 16px;
+  background-color: #369B72;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
